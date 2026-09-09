@@ -1,8 +1,7 @@
 ---
 name: Compensation Request
-about: " Compensation issue template to make it easy for contributors to make compensation
-  requests."
-title: Compensation request for [MONTH], [YEAR]
+about: "Compensation issue template for contributors."
+title: Compensation request for MONTH YEAR
 labels: ''
 assignees: ''
 
