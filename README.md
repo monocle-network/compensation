@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/monocle-network/monocle-network.github.io/blob/main/assets/monocle-banner.jpg?raw=true" alt="Monocle logo">
+</div>
+
 # Compensation
 
 A place for contributors to the Monocle open-source project to submit compensation requests for completed work.
