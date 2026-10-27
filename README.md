@@ -145,3 +145,9 @@ This repository is designed to facilitate the following activities:
 * **Submission of Monthly Invoices:** Translating completed tasks into transparent proof of payment.
 * **Peer-to-Peer Auditing:** Creating an open space for code, node, and support verification.
 * **Financial Cryptographic Verification:** Serving as a historical ledger of proof-of-payment tx keys.
+
+---
+
+## Resources
+
+For more information see the [Monocle Wiki](https://monocle.wiki/Contributor_Compensation).
