@@ -148,6 +148,6 @@ This repository is designed to facilitate the following activities:
 
 ---
 
-## Resources
+## 🔗 Resources
 
 For more information see the [Monocle Wiki](https://monocle.wiki/Contributor_Compensation).
