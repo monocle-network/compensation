@@ -39,9 +39,13 @@ These contributors interact directly with the underlying infrastructure to keep 
 * [Seed Node Operators](https://github.com/monocle-network/roles/issues/2)
 * [Price Node Operators](https://github.com/monocle-network/roles/issues/3)
 * [Markets Operator](https://github.com/monocle-network/roles/issues/6)
+* [Wiki Operator](https://github.com/monocle-network/roles/issues/11)
+* [Blog Operator](https://github.com/monocle-network/roles/issues/12)
+* [Domain Operators](https://github.com/monocle-network/roles/issues/13)
 
 ### 💻 Application-Facing Roles
 These contributors ensure the software code-base stays updated, secure, and performant.
+* [Lead Developer](https://github.com/monocle-network/roles/issues/10)
 * [Open-Source Application Maintainers](https://github.com/monocle-network/roles/issues/9)
 
 ### 👥 Contributor-Facing Roles
@@ -57,19 +61,23 @@ Monocle uses flat-rate structures for our defined project roles.
 ### User-Facing Roles
 * **Community Stewards:** $500 USD per month *(minimum 10 hours of active support per week required)*.
 * **Support Contributors:** $400 USD per month *(minimum 10 hours of active support per week required)*.
-* **Arbitrators:** $20 USD per arbitration case *(expected ticket response time within 24 hours)*.
+* **Arbitrators:** $1000 USD per month.
 
 ### Network-Facing Roles
 * **Monero Node Operators:** $50 USD per node, per month 
 * **Seed Node Operators:** $50 USD per node, per month.
 * **Price Node Operators:** $50 USD per node, per month.
 * **Markets Operator:** $50 USD per month.
+* **Wiki Operator:** $50 USD per month.
+* **Blog Operator:** $5 USD per month.
+* **Domain Operators:** $5 USD per domain, per month.
 
-> Operators are expected to run multiple nodes.
+> Node and Domain Operators are expected to run multiple nodes/domains.
 
 ### Application & Contributor-Facing Roles
+* **Lead Developer:** $2500 USD per month.
 * **Open-Source Application Maintainers:** $500 USD per month.
-* **Contributor Hostess** $500 USD per month. *(minimum 10 hours of active community mangement per week required)*.
+* **Contributor Hostess** $500 USD per month. *(minimum 10 hours of active community management per week required)*.
 
 ---
 
@@ -119,7 +127,7 @@ If you are interested in a compensated role, start by supporting the broader Mon
 Monocle builds software that puts users first. If you proactively help the Monero community, you are exactly the type of person Monocle wants contributing.
 ## ⏳ First-Month Trial Period
 
-Prospective contributors seeking ongoing compensated roles must complete a **one-month uncompensated trial period**.
+Prospective contributors seeking ongoing compensated roles must complete a **full one-month uncompensated trial period**.
 
 * **On-boarding & Support:** Our team will actively assist, train, and guide you through your new workflow.
 * **Core Duties:** You will perform standard role tasks (e.g., handling support tickets or running test nodes), but these initial on-boarding contributions are not eligible for financial compensation.
